@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=BIZ+UDGothic&display=swap');
+
+body {
+  font-family: 'BIZ UDGothic'
+   line-height: 1.4 ;
+   background-color: #e5eaf2;
+  width: 700px;
+  margin: auto;
+}
+
+form{
+  background: rgb(102,205,170);
+   padding: 2.5rem 2.5rem;
+  border-radius: 2cm;
+  width: 500px;
+  margin: auto;
+}
+
+.submit-button {
+  width: 100%;
+  padding: 0.75cm;
+  background: Maroon;
+  color: white;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.input-headings {
+  margin: 0 auto 1.25rem auto;
+  padding: 0.25 cm;
+}
+
+.form-inputs {
+  display: block;
+  width: 90%;
+  height: 2rem;
+  padding: 0.25rem 0.75rem;
+  background-color:	#AFEEEE;
+  border: 1px solid # cedida;
+  border-radius: 0.25cm;
+}
